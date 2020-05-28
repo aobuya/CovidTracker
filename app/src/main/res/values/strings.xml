@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="country">Kenya</string>
+    <string name="confirmed">confirmed</string>
+    <string name="recovered">recovered</string>
+    <string name="loading">Loading</string>
+    <string name="deaths">deaths</string>
+    <string name="last_checked">Last Checked</string>
+    <string name="hint">Country</string>
+    <string name="dates">11/12/2020</string>
+    <string name="fab_content_desc">fab</string>
+    <string name="search">Search</string>
+    <string name="desc">Enter country name and track COVID cases</string>
+    <string name="splash_text">Covid Tracker</string>
+
+</resources>
