@@ -3,3 +3,6 @@ Covid Tracker app built using Java, uses Retrofit pull data from third party API
 
 # Features
 - Enter a country in the search field and get the covid statistics
+![](sc.jpeg)
+![](main.jpeg)
+
